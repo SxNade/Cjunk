@@ -11,7 +11,7 @@ int main()
 	time_t t;
 	srand((unsigned) time(&t));
 	int rd_num = rand() % 21;	//21 for random number between 0-20//
-	int tries = 0;
+	int tries = 1;
 	int num;
 	
 	//start the loop
