@@ -9,7 +9,7 @@ int main()
 	strcpy(src, "This is a source");
 	strcpy(dest, "This is a Destination");
 
-	strncat(dest, src, 15);
+	strncat(dest, src, 15);		// For Sort of Preventing BO...
 
 	printf("Final Destination strgin is |%s|", dest);
 
