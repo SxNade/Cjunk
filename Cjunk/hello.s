@@ -12,5 +12,5 @@ _start:
     syscall
 
 message:
-    .ascii "Hello Peoples"
+    .ascii "Hello From ?"
     
